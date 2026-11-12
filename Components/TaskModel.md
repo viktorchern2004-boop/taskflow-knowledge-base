@@ -1,4 +1,8 @@
 ---
+validates:
+  - "[[TaskStatus]]"
+  - "[[TaskPriority]]"
+  - "[[DueDate]]"
 type: component
 created: 2026-11-12
 tags:
