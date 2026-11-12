@@ -1,4 +1,8 @@
 ---
+depends_on:
+  - "[[TaskModel]]"
+persists_to:
+  - "[[JsonStorage]]"
 type: component
 created: 2026-11-12
 tags:

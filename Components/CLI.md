@@ -1,4 +1,6 @@
 ---
+depends_on:
+  - "[[TaskService]]"
 type: component
 created: 2026-11-12
 tags:
