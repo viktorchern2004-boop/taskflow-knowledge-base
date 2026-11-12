@@ -1,4 +1,6 @@
 ---
+implements:
+  - "[[ADR-001-Local-JSON]]"
 type: component
 created: 2026-11-12
 tags:
